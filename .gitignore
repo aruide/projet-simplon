@@ -1,0 +1,4 @@
+#ignorer les dossier __pycache__
+/controleur/__pycache__/*
+/modele/__pycache__/*
+/vue/__pycache__/*
